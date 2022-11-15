@@ -16,6 +16,7 @@ async function performLookup(lookup_Type){
     }
     const response = await fetch(lookup_url).then((response) => {
         let data = response.text();
+      
         return data;
    })
 
