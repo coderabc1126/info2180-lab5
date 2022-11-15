@@ -1,2 +1,2 @@
 # INFO2180 Lab 5
-This is Lab 5 for Antonia on PHP and MySQL
+This is Lab 5 for Antonia Curtis on PHP and MySQL
